@@ -1,6 +1,6 @@
 # Privacy Policy (Updated)
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-09-01  
 **Effective Date:** 2026-04-10  
 
 **Almira Khafizova** built the **NAL** app as a **Freemium** app. This app is provided “as is” with optional paid features.
@@ -50,6 +50,22 @@ Our app does not knowingly collect information from children under 13.
 
 ## Contact:
 If you have questions about this Privacy Policy, contact **mimirka80@gmail.com**.
+
+---
+
+## Impressum:
+Information according to § 5 Digitale-Dienste-Gesetz (DDG)
+
+**Service Provider:**  
+Almira Khafizova
+
+**Address:**  
+Rosenfelder Ring 162<br>
+10315 Berlin<br>
+Germany<br>
+
+**Contact:**  
+Email: mimirka80@gmail.com
 
 ---
 
