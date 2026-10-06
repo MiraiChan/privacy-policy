@@ -49,7 +49,7 @@ Our app does not knowingly collect information from children under 13.
 ---
 
 ## Contact:
-If you have questions about this Privacy Policy, contact **mimirka80@gmail.com**.
+If you have questions about this Privacy Policy, contact **nal.appsupport@gmail.com**.
 
 ---
 
@@ -65,7 +65,7 @@ Rosenfelder Ring 162<br>
 Germany<br>
 
 **Contact:**  
-Email: mimirka80@gmail.com
+Email: nal.appsupport@gmail.com
 
 ---
 
